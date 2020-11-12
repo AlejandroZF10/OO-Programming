@@ -1,0 +1,20 @@
+sudo service tomcat6 stop
+
+sudo service tomcat6 start
+
+http://localhost:8080/servlets/servlet/Hola?name=avatar
+http://localhost:8080/servlets/servlet/HelloWorldExample
+
+directorio rtecla
+java -jar winstone-0.9.10.jar --webroot=webapp --httpPort=5050
+
+cd /home/rtecla/webapp/WEB-INF/classes 
+javac -cp .;../lib/servlet-api.jar Tablas.java
+
+javac -cp .:../lib/servlet-api.jar  *.java
+
+javac -cp .:../lib/servlet-api.jar:../lib/mail.jar  *.java
+
+javac -cp .:../lib/servlet-api.jar:../lib/mysqlcon.jar  *.java
+
+javac -cp .:../lib/servlet-api.jar:../lib/mysqlcon.jar  *.java
