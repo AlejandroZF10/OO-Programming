@@ -1,0 +1,17 @@
+MySQL
+Crear base de datos bdpoo7
+Comando para cargar base de datos: source C:\dirección\bdpoo7 (ejecutar en mysql)
+------------------------
+Comando para compilar java
+
+javac -cp .;mysql-connector-java-5.1.23-bin.jar practica7poo.java
+
+Ejecutar
+
+java -cp .;mysql-connector-java-5.1.23-bin.jar practica7poo
+
+
+show databases;
+use bdpoo7;
+show tables;
+SELECT * from perros;
