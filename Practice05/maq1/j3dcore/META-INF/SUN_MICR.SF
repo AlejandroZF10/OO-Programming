@@ -1,0 +1,1563 @@
+Signature-Version: 1.0
+Created-By: 1.5.0_11 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest-Main-Attributes: m6aTWELSIvvcsN1JUYfPoMfs71I=
+SHA1-Digest-Manifest: Grv9QDrkD0a0WCbMnitta/QcAXU=
+
+Name: javax/media/j3d/ShaderAttributeBinding.class
+SHA1-Digest: L5EyJAgppz3SjfPdIF9T7JAynog=
+
+Name: javax/media/j3d/EventCatcher.class
+SHA1-Digest: 9EORtQAwXGgZYO1xfEjgnQlhClM=
+
+Name: javax/media/j3d/OrientedShape3DRenderMethod.class
+SHA1-Digest: /kt38YCUsSFLe6jba1rOr6nF204=
+
+Name: javax/media/j3d/CapabilityNotSetException.class
+SHA1-Digest: aINg/LTWvc6qaTsTH228ri4vBzs=
+
+Name: javax/media/j3d/IndexedGeometryStripArray.class
+SHA1-Digest: PcxwP1VdlQQ3nTvLN2l9HuZAMiw=
+
+Name: javax/media/j3d/ShaderAppearance.class
+SHA1-Digest: 7bgyhp3zqpn9ootty2Ax9zaWGWs=
+
+Name: javax/media/j3d/TriangleStripArray.class
+SHA1-Digest: yjQ1LkU/M9YO3y0NRxcV+90Vd+Y=
+
+Name: javax/media/j3d/J3dNodeTable.class
+SHA1-Digest: ul4ME4SG+QXP4Ie7pjTlJkaBMKo=
+
+Name: javax/media/j3d/WakeupAnd.class
+SHA1-Digest: 7hPSuBOiygIm7dyUfRF84J2odtI=
+
+Name: javax/media/j3d/Renderer$DefaultErrorListener.class
+SHA1-Digest: Hdf7ei0hLX0eh1TASJ9EbHQc4sQ=
+
+Name: javax/media/j3d/BoundingPolytope.class
+SHA1-Digest: LbO4EeexJUi32PRhuYGBsVaIQ+0=
+
+Name: javax/media/j3d/ShaderProgramRetained$ShaderProgramData.class
+SHA1-Digest: dWvpP1kGakEz0U0Z404br3ZrmGw=
+
+Name: javax/media/j3d/PickRay.class
+SHA1-Digest: SAyBbntuMveFCIezz59t4dw4T2k=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$Tuple2iArrayWrapper
+ .class
+SHA1-Digest: mNEp4nsA7POTvCn630iZWo+hwYE=
+
+Name: javax/media/j3d/JoglCgShaderParameter.class
+SHA1-Digest: pa9yk69R42pwimpXrMNOqX+IfNY=
+
+Name: javax/media/j3d/MaterialRetained.class
+SHA1-Digest: Zki5RRadHcHq3GGeLkBF+wyKPkg=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$Tuple2iWrapper.clas
+ s
+SHA1-Digest: qsZ4GHXxoyPENhUz1z9LfZj9XQ4=
+
+Name: javax/media/j3d/SceneGraphCycleException.class
+SHA1-Digest: fkODNqj0j73dc7js0SBYl/OXudI=
+
+Name: javax/media/j3d/PositionPathInterpolator.class
+SHA1-Digest: LiLbisUbjq9czsdKu1hYsFbQmzE=
+
+Name: javax/media/j3d/MasterControl$5.class
+SHA1-Digest: 7t/eq7tIRW+lHoVJZnRJZfs6FDg=
+
+Name: javax/media/j3d/ShaderConstants.class
+SHA1-Digest: eOqAchM/hyS0nU3EXIZ3cJ/0M1s=
+
+Name: javax/media/j3d/DepthComponentNativeRetained.class
+SHA1-Digest: gBCL5HHJHQPkInSq2aq3VYRQgO0=
+
+Name: javax/media/j3d/AudioDevice3DL2.class
+SHA1-Digest: fkh2gH1Jfsnlozy1ZVkKSNjAyhg=
+
+Name: javax/media/j3d/PointLight.class
+SHA1-Digest: E39col/ZBKfIkPHifC5KoFL+P8M=
+
+Name: javax/media/j3d/ImageComponentUpdateInfo.class
+SHA1-Digest: x6DsrFioIB85alOe65qo+nFuEgM=
+
+Name: javax/media/j3d/ImageComponentRetained$ImageDataType.class
+SHA1-Digest: T7g5kWRdBobF6ZsKBOwir5Y8bHc=
+
+Name: javax/media/j3d/MasterControl$1.class
+SHA1-Digest: WHqmDxiAV3OuPT95L/rcEZZZFZc=
+
+Name: javax/media/j3d/SoundSchedulerAtom.class
+SHA1-Digest: 1MxXnCB1DHdmXVg1Cak1yLyFSTs=
+
+Name: javax/media/j3d/J3DGraphics2D.class
+SHA1-Digest: /I5HbVatiyqYJdqdxjqpPCS/iXc=
+
+Name: javax/media/j3d/NativeConfigTemplate3D$1.class
+SHA1-Digest: lmbBofea0K22zz863qvOYtiunS8=
+
+Name: javax/media/j3d/FogRetained.class
+SHA1-Digest: qcfxL5yhvbgLEJ/KDH+anOVEtGU=
+
+Name: javax/media/j3d/GeneralizedVertexList$Vertex.class
+SHA1-Digest: GIAVYiUsPBmB1F8X2HmLspfsNBg=
+
+Name: javax/media/j3d/Text3DRenderMethod.class
+SHA1-Digest: l7+w9BfzJ8og9r51dhtOF2jRWRQ=
+
+Name: javax/media/j3d/CachedTargets.class
+SHA1-Digest: D6EDxsQlvNvhzR6Ooz5QQ/4Xgxc=
+
+Name: javax/media/j3d/ExponentialFogRetained.class
+SHA1-Digest: +1s7FANqndToBLyeG6yeWGydkfU=
+
+Name: javax/media/j3d/TextureUnitState.class
+SHA1-Digest: oZzQ9bCvaV+Swm5XaOzcnqYaBk4=
+
+Name: javax/media/j3d/NativeScreenInfo.class
+SHA1-Digest: AvvaY0Gcjyr7ETYTG7WXFWrs7fc=
+
+Name: javax/media/j3d/JoglPipeline$ContextQuerier.class
+SHA1-Digest: cbvfFopJLqwE+5O+LT4u9W++m9k=
+
+Name: javax/media/j3d/SoundScheduler.class
+SHA1-Digest: B4a2omJ2oMTeVO+AHcT1unjB6lY=
+
+Name: javax/media/j3d/Behavior.class
+SHA1-Digest: qWIARPgXOb5zk6uJ8kJmuhPsDSY=
+
+Name: javax/media/j3d/NativeScreenInfo$1.class
+SHA1-Digest: +RlW7nLa/vXdqcNE8Dz5MXsVycc=
+
+Name: javax/media/j3d/InputDeviceScheduler.class
+SHA1-Digest: WQMqGZQHDmTHMaaV68+INJR+ROY=
+
+Name: javax/media/j3d/MasterControl$10.class
+SHA1-Digest: pfGlRkU6V1nWqVWaGwOUanq313Q=
+
+Name: javax/media/j3d/AlternateAppearance.class
+SHA1-Digest: TPD72B+Hb76oc8+qv/xvTVQnwKE=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$IntegerWrapper.clas
+ s
+SHA1-Digest: uE718hrA9+id+asOQpn7ko4tOe8=
+
+Name: javax/media/j3d/SharedGroupRetained.class
+SHA1-Digest: l/EAbGLVZCzNDNdg6r1XjYLhAMk=
+
+Name: javax/media/j3d/WakeupOnCollisionEntry.class
+SHA1-Digest: jpXfhekOR++MXX00ATVamXOX0H8=
+
+Name: javax/media/j3d/Node.class
+SHA1-Digest: oA68hvH2q0MVZ18rKVx3IApshm8=
+
+Name: javax/media/j3d/StructureUpdateThread.class
+SHA1-Digest: gzAhDtlO08ntspFQ0k/exuJLt/c=
+
+Name: javax/media/j3d/TextureBin.class
+SHA1-Digest: t2PKoabRbejVoZqXLO8mgUqQaAM=
+
+Name: javax/media/j3d/ImageComponent3DRetained.class
+SHA1-Digest: 2nh6XEcqwHDJ7Zt7iZnYD/v6jpc=
+
+Name: javax/media/j3d/WakeupOnAWTEvent.class
+SHA1-Digest: LoKlOLhjyO+ewtw+BF7v7nVrgzo=
+
+Name: javax/media/j3d/Text3D.class
+SHA1-Digest: h0hGv9SeldGBKPhrlxaBRvirx1M=
+
+Name: javax/media/j3d/BoundingSphere.class
+SHA1-Digest: 2Zxdzjv1r1AANLLwCSnr6OtDUag=
+
+Name: javax/media/j3d/Fog.class
+SHA1-Digest: xQ60BOLyKx/z3Urh6WcQa75rRSY=
+
+Name: javax/media/j3d/ShaderAttributeRetained.class
+SHA1-Digest: JTCGFrFloGADLcM/C64dfzz6/f8=
+
+Name: javax/media/j3d/PickPoint.class
+SHA1-Digest: qHsMDJV5ze51aDSKc5XFIM3ahTc=
+
+Name: javax/media/j3d/J3DBuffer.class
+SHA1-Digest: EFSL9OflvkP6RmfKiXLwW9ew27E=
+
+Name: javax/media/j3d/SourceCodeShaderRetained.class
+SHA1-Digest: 1Xu8AOo6k5pCd6cISdKKTyC4SjQ=
+
+Name: javax/media/j3d/DistanceLOD.class
+SHA1-Digest: X32GsYuxEkjGvpkyYPbqFMmqwC8=
+
+Name: javax/media/j3d/OrderedGroupRetained.class
+SHA1-Digest: Ilgcqr9qLbfZLUCoH1OhJXPQ3bU=
+
+Name: javax/media/j3d/LineAttributes.class
+SHA1-Digest: fKrrhVOnx3V4ujcFHdK+NHPVTt0=
+
+Name: javax/media/j3d/WakeupCriteriaEnumerator.class
+SHA1-Digest: l8flMkiMHeEH3ZkFAMME8+eeIeg=
+
+Name: javax/media/j3d/Switch.class
+SHA1-Digest: 8azd4nLA8zR6dH9K6ydSDPhCZl4=
+
+Name: javax/media/j3d/VersionInfo.class
+SHA1-Digest: qNWCcquZbXK4iVc1m6dw1v6pcIM=
+
+Name: javax/media/j3d/LightSet.class
+SHA1-Digest: VY47G2/dqWWeq15M3lysQRb4LyU=
+
+Name: javax/media/j3d/JoglCgShaderInfo.class
+SHA1-Digest: Uvtb0OmrSjslO1vidF7kfHjPZtY=
+
+Name: javax/media/j3d/IntegerFreeList.class
+SHA1-Digest: ZjqAH3WuV/Rt3wx4FOBio5xHHwk=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$Tuple4iArrayWrapper
+ .class
+SHA1-Digest: X2or+HETRHPVQyhZjltBOzmS86w=
+
+Name: javax/media/j3d/IndexedTriangleArray.class
+SHA1-Digest: uZdTbOl4FtgsEiO1691LETIuac8=
+
+Name: javax/media/j3d/LightBin.class
+SHA1-Digest: V8kdBgm5xHxwIEyIXi5NczVHWT4=
+
+Name: javax/media/j3d/Drawable.class
+SHA1-Digest: UBB9NmOaVTXeKM4RGqm3OED2Z4E=
+
+Name: javax/media/j3d/WakeupOnElapsedTimeHeap.class
+SHA1-Digest: N3quOUrCy743lBkSMqKxwvUKjeM=
+
+Name: javax/media/j3d/OrientedShape3DRetained.class
+SHA1-Digest: wzPoTvY+38dcdCICrFNqrFV9dTw=
+
+Name: javax/media/j3d/Sound.class
+SHA1-Digest: X3HlSUh4g/6VrLPc/PP8YpYxp/c=
+
+Name: javax/media/j3d/MasterControl$15.class
+SHA1-Digest: Xptjacvnhx9VkDQIee9rZGzPNxI=
+
+Name: javax/media/j3d/SetLiveState.class
+SHA1-Digest: H/MNZ0aYDcLPxBQXb0izgwCa2ps=
+
+Name: javax/media/j3d/JoglDrawingSurfaceObject.class
+SHA1-Digest: Oo1Y0j69sKetnztEb0ZsnF4AE9U=
+
+Name: javax/media/j3d/MasterControl$2.class
+SHA1-Digest: FdMK1W6C3Pd7fWz1pphZOT34Haw=
+
+Name: javax/media/j3d/ShaderAttrLoc.class
+SHA1-Digest: t4V9SYaaa/JUiLjRoig6qaZ4u3g=
+
+Name: javax/media/j3d/Group.class
+SHA1-Digest: 1P5hENunz/cSU8LGKCXWAD9rRWM=
+
+Name: javax/media/j3d/RestrictedAccessException.class
+SHA1-Digest: DjeHaezMgibJZgy3O87bAvXNmyI=
+
+Name: javax/THIRDPARTY-LICENSE-GLEXT.txt
+SHA1-Digest: kSDslx487gIHoEbuvTevvKrgBHg=
+
+Name: javax/media/j3d/DrawingSurfaceObjectAWT.class
+SHA1-Digest: 3QvKv/ygRF79P69zrj7DLy1p/F4=
+
+Name: javax/media/j3d/WakeupOrOfAnds.class
+SHA1-Digest: 6ZgQ2Iv91gGnhmNuuCxuOZwj5FA=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$Tuple4fWrapper.clas
+ s
+SHA1-Digest: n7JF1k7XBG10C5dDaouCqn8KDJM=
+
+Name: javax/media/j3d/PhysicalBody.class
+SHA1-Digest: KRpTwUvVqV2mc7FjJX5Mwqr/75Y=
+
+Name: javax/media/j3d/Pipeline$2.class
+SHA1-Digest: GzgvuAkPqLE+xz36SmzaXCjfSLk=
+
+Name: javax/media/j3d/Text3DRetained.class
+SHA1-Digest: iMU0XAJ7MiZgXF2wBmF+LRhJIpk=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$FloatArrayWrapper.c
+ lass
+SHA1-Digest: 81IIIVhKV9L8RU36qVxcYnSGtvQ=
+
+Name: javax/media/j3d/ViewSpecificGroupRetained.class
+SHA1-Digest: xsuBQyI3Ho2Lcy7RyfYqFY6OLkE=
+
+Name: javax/media/j3d/ConeSoundRetained.class
+SHA1-Digest: 4rkvIzPL2FNNyH8mTVGMcvTfSfo=
+
+Name: javax/media/j3d/J3DGraphics2DImpl.class
+SHA1-Digest: sXWohCh+IXFKeHmZ7QHPcHbAGqw=
+
+Name: javax/media/j3d/JoglPipeline$CapabilitiesCapturer.class
+SHA1-Digest: 1AsQNgWh+QA1N6E4s8spjarATmg=
+
+Name: javax/media/j3d/ShaderAttributeBindingRetained.class
+SHA1-Digest: recofWbTP59Gz1ItA/F5zD64+80=
+
+Name: javax/media/j3d/RenderMethod.class
+SHA1-Digest: 6QwdBBby0Q9f+L8+C/Xz5ime8Tw=
+
+Name: javax/media/j3d/Material.class
+SHA1-Digest: nWbQT+qMlZ9UvWHYo4vjSneVbVM=
+
+Name: javax/media/j3d/DrawingSurfaceObject.class
+SHA1-Digest: /6UrotP+dR3oqcO2P5ZZKsDZN/o=
+
+Name: javax/media/j3d/J3dStructure.class
+SHA1-Digest: 0+wU9cy9Uausj2Y8jlzSG+IT1mo=
+
+Name: javax/media/j3d/TimerThread.class
+SHA1-Digest: cVhsPtd8a4/2JWrORH9pkPAdHOE=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$Tuple3fArrayWrapper
+ .class
+SHA1-Digest: Kls70qemeH9cpuZ3t15/INy8Trc=
+
+Name: javax/media/j3d/ShaderAttributeSet.class
+SHA1-Digest: Ku973gdRice4L0d5RhzC1mPJDIU=
+
+Name: javax/media/j3d/MasterControl$6.class
+SHA1-Digest: loV/OY8GJC107P7HC4LLJhK9Hwg=
+
+Name: javax/media/j3d/ImageComponent3D.class
+SHA1-Digest: UWI+8HytqNsbOLShnLj8tGOZ4cc=
+
+Name: javax/media/j3d/ShaderErrorListener.class
+SHA1-Digest: a2q0EDrx3Hbxr5V4xNtSlXwl31c=
+
+Name: javax/media/j3d/GeneralizedStripFlags.class
+SHA1-Digest: 3HbimAtNeSiSzhZOhHCDxzP1WSw=
+
+Name: javax/media/j3d/PointAttributes.class
+SHA1-Digest: jhzd+T68rmAuTQK2AlREP4JXg4Q=
+
+Name: javax/media/j3d/OrderedBin.class
+SHA1-Digest: 6NhGuahgGYt8F8jZtvCQ8G7RPvA=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained.class
+SHA1-Digest: x2dH+Y1j4xppNx/9n5xXZCUkBmk=
+
+Name: javax/LICENSE.txt
+SHA1-Digest: ubIzCx5re+e54JEisP27ne5VZ5g=
+
+Name: javax/media/j3d/NativeDrawable.class
+SHA1-Digest: UGxqkWXg6ac2tQpt1qrbC8qZohU=
+
+Name: javax/media/j3d/J3dThreadData.class
+SHA1-Digest: EMWHaf1y87CdtsvsrRwZ0aSMwnU=
+
+Name: javax/media/j3d/BHLeafNode.class
+SHA1-Digest: op+zGEE9/CSPUc5zhSEdASBxVbk=
+
+Name: javax/media/j3d/NativeContext.class
+SHA1-Digest: YigG4z1JYNXQXrl0HcRfPYKrI9c=
+
+Name: javax/media/j3d/TriangleArray.class
+SHA1-Digest: QS7YPG5hJtG/kL7i2rVqq2onWsI=
+
+Name: javax/media/j3d/ShaderAttributeObjectRetained.class
+SHA1-Digest: YuyB0S2J8F3vTAhuy7tyACdEZlc=
+
+Name: javax/media/j3d/BehaviorRetained.class
+SHA1-Digest: 89079FZt8+yO/+vhjqwOIip44lk=
+
+Name: javax/media/j3d/Transform3D.class
+SHA1-Digest: qRLgLnkiUxZGNMomq+Vz/8g0EEs=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$Tuple3fWrapper.clas
+ s
+SHA1-Digest: QyOJ+Gkmjtzs2M6KG3vslOMBaAA=
+
+Name: javax/media/j3d/Context.class
+SHA1-Digest: oCoOhLRgrCLyEB0OdU6EFafeYYA=
+
+Name: javax/media/j3d/AudioDeviceEnumerator.class
+SHA1-Digest: GCho3PvlHKvBNe9JH59P+nPc7xY=
+
+Name: javax/media/j3d/JoglPipeline$1.class
+SHA1-Digest: flDILwakQy670WkIzPkKhe4ewqE=
+
+Name: javax/media/j3d/WakeupOnSensorEntry.class
+SHA1-Digest: 9A3G8ebYFu/2/9JpBQdfzAeqsjk=
+
+Name: javax/media/j3d/FontExtrusion.class
+SHA1-Digest: E0gj1kVn5v53m8+RmW1BIIr1Gek=
+
+Name: javax/media/j3d/GeneralizedStrip$IntList.class
+SHA1-Digest: Z7T7o8E08zd3NaNZn2W02fP750E=
+
+Name: javax/media/j3d/MasterControl$7.class
+SHA1-Digest: wQLXQXHcGaOGjjAyDx0iztrvJuw=
+
+Name: javax/media/j3d/J3dThread.class
+SHA1-Digest: IPzhdS5ewZrQL9GYzHUhVwvk6IA=
+
+Name: javax/media/j3d/WakeupOnElapsedTime.class
+SHA1-Digest: N8xiCOzZx702Oau9nn5Uu8idOIg=
+
+Name: javax/media/j3d/PointArray.class
+SHA1-Digest: YOSHyb0a3VL4yFMUXRdhfMZG+o8=
+
+Name: javax/media/j3d/SpotLight.class
+SHA1-Digest: /wmGH24f9As1Ub0ML2aHibuBxng=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$IntegerArrayWrapper
+ .class
+SHA1-Digest: L0sZ5XmWlbSOTmWunpaH0hyYF8I=
+
+Name: javax/media/j3d/CanvasViewCache.class
+SHA1-Digest: YUkxqwqSQtLNPsuPIaaLb/IM73Q=
+
+Name: javax/media/j3d/ColoringAttributes.class
+SHA1-Digest: kmOCSqEcOEcS/shu6c5Cp34wP94=
+
+Name: javax/media/j3d/GeometryAtom.class
+SHA1-Digest: 34tOD7V4pFWypn1dEEU/yer0b80=
+
+Name: javax/media/j3d/ImageComponent2D$Updater.class
+SHA1-Digest: NHW4NM7tCH9tijKOqwny4RBraV4=
+
+Name: javax/media/j3d/SwitchState.class
+SHA1-Digest: J8SiLp5DmUJs3/BgobIyTLXI2kk=
+
+Name: javax/media/j3d/NativePipeline$2.class
+SHA1-Digest: TRbPGZSqDKx7qNY9q1penOMfcT0=
+
+Name: javax/media/j3d/WakeupCondition.class
+SHA1-Digest: X4xW/XjRLiA26lfffVnBpzbGF60=
+
+Name: javax/media/j3d/AuralAttributes.class
+SHA1-Digest: Va3RpvSVkhuGUVShdfQIQN26WdM=
+
+Name: javax/media/j3d/NioImageBuffer$ImageType.class
+SHA1-Digest: EVYV9kivQrIw2yY8+RqGUeTc6qk=
+
+Name: javax/media/j3d/MediaContainerRetained.class
+SHA1-Digest: ReFM+BtWCCJd4sP1+lOGqPzAwbE=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$Matrix3fArrayWrappe
+ r.class
+SHA1-Digest: CR+BoqC2068GZKoOLx2nBL0Uw+o=
+
+Name: javax/media/j3d/MasterControlThread.class
+SHA1-Digest: uROcKaWDvyynWc3kwOglZmgjK4A=
+
+Name: javax/media/j3d/TextureUnitStateRetained.class
+SHA1-Digest: 0hvWt5OxI4vNZqsM+fxGnJb0wOU=
+
+Name: javax/media/j3d/PickConeRay.class
+SHA1-Digest: KAh5zADOTv0R0tCnjIAoCk8Sv40=
+
+Name: javax/media/j3d/NativeShaderObject.class
+SHA1-Digest: wXGrHrP7o81CHuZMti/Ukjkobf0=
+
+Name: javax/media/j3d/IndexedPointArray.class
+SHA1-Digest: 42pMK9PhG15tCBdjuR/ZOz/tIPw=
+
+Name: javax/media/j3d/IndexedQuadArray.class
+SHA1-Digest: sgXEUklIBaRup5PBLobupZvplIM=
+
+Name: javax/media/j3d/IndexedTriangleArrayRetained.class
+SHA1-Digest: SJXpvBkejUZvlZSHX3kBaVwnllE=
+
+Name: javax/media/j3d/TexCoordGenerationRetained.class
+SHA1-Digest: lMoFBtZq073VrrZ7uUmA89B3b6s=
+
+Name: javax/media/j3d/WakeupOnViewPlatformExit.class
+SHA1-Digest: xR3Kz9rVcJXR69kk3Yw3yVUWYfs=
+
+Name: javax/media/j3d/J3dQueryProps$1.class
+SHA1-Digest: aIMDcKBY+qG/r3DT3tw2GmZwC4A=
+
+Name: javax/media/j3d/WakeupOnCollisionMovement.class
+SHA1-Digest: 0gcUMTE+nn0Ph9WkJm4eIJuIgts=
+
+Name: javax/media/j3d/SwitchRetained.class
+SHA1-Digest: NPMPxH+QgWr0/ECGCxkLaHR9/gA=
+
+Name: javax/media/j3d/EnvironmentSet.class
+SHA1-Digest: lWjcQLwsJPIhj0UQNRv5c2AayiM=
+
+Name: javax/media/j3d/GeometryDecompressorShape3D.class
+SHA1-Digest: Tw6cQAt/S3F8JPXh8OQft7mBeNQ=
+
+Name: javax/media/j3d/WakeupOnTransformChange.class
+SHA1-Digest: UsUY6OstobJkJh95Q3IXh3wNgKk=
+
+Name: javax/media/j3d/WakeupOnDeactivation.class
+SHA1-Digest: UxeYLbpHHeLGgscZr8w9HR6NaQ0=
+
+Name: javax/media/j3d/IndexedTriangleStripArrayRetained.class
+SHA1-Digest: t8uWv0WI7s8gcYouW56y+/Vftmg=
+
+Name: javax/media/j3d/InputDeviceBlockingThread.class
+SHA1-Digest: jzRGE/i8VeyuL+PaoDskCaprLT8=
+
+Name: javax/media/j3d/JoglContext$GLSLVertexAttributeImpl.class
+SHA1-Digest: DVOP0byEPhiEZKC/g00XxTQzNSw=
+
+Name: javax/media/j3d/LOD.class
+SHA1-Digest: 87VS/s4+y1X1LO5JF1MZh4JLPno=
+
+Name: javax/media/j3d/Shape3DCompileRetained.class
+SHA1-Digest: no7ygKn91MwE96gsYsT86ME2nDk=
+
+Name: javax/media/j3d/WakeupOr.class
+SHA1-Digest: VR2lbDqIu4lUNHvtjb5HoXzVU8A=
+
+Name: javax/media/j3d/ShaderProgram.class
+SHA1-Digest: aD8GXAcHnCqcSA3vuj2E9QqPbbk=
+
+Name: javax/media/j3d/Renderer.class
+SHA1-Digest: 1Ip/Hff44ZxnSF/ieMYutZ7JZ7Y=
+
+Name: javax/media/j3d/TriangleFanArrayRetained.class
+SHA1-Digest: UebZZY2jeGSGVdVIVCxIsCMRtjY=
+
+Name: javax/media/j3d/MediaContainer.class
+SHA1-Digest: jRA8VqZ1XKd1SK/n9hxKYWO7yCg=
+
+Name: javax/media/j3d/ImageComponent3D$Updater.class
+SHA1-Digest: lIbYtZ+RESTJrzccFXsLkqauIYM=
+
+Name: javax/media/j3d/JoglCgShaderProgramInfo.class
+SHA1-Digest: 9hV9+469pNGwqLLQ83kztQYMr1Q=
+
+Name: javax/media/j3d/AmbientLightRetained.class
+SHA1-Digest: QLZJ/WpN8NG9CMIXm9vAOZwCbF0=
+
+Name: javax/media/j3d/BackgroundRetained.class
+SHA1-Digest: AwyTUmnzVSn/6evDXZT5inOa/rc=
+
+Name: javax/media/j3d/IndexedTriangleStripArray.class
+SHA1-Digest: 3K2yV4AdUMn0eCmzQiMwWZe1xeY=
+
+Name: javax/media/j3d/PickInfo.class
+SHA1-Digest: QXw/i/ys+G+W+yABQAOg340dMgI=
+
+Name: javax/media/j3d/DanglingReferenceException.class
+SHA1-Digest: /F9+hZIkPdd8sM+aLnB4sBKrgsY=
+
+Name: javax/media/j3d/Table.class
+SHA1-Digest: rdU89XaSOaHqtg8CcRjKO8NCkTw=
+
+Name: javax/media/j3d/WakeupOnCollisionExit.class
+SHA1-Digest: 8tA5CeBCsOzmbGvWkg7OU3wEzPY=
+
+Name: javax/media/j3d/J3dNotification.class
+SHA1-Digest: vvkOBjL98tcP9tWSix+PKVixzhI=
+
+Name: javax/media/j3d/OrderedPath.class
+SHA1-Digest: p6h2UG/8k6N3CgGE0Gi8sZRzK20=
+
+Name: javax/media/j3d/BehaviorStructure.class
+SHA1-Digest: sinR8GDJbPhtuEU3q6HdZBEe2uc=
+
+Name: javax/media/j3d/ScaleInterpolator.class
+SHA1-Digest: 6clIdP0RCx1jKJGJOpwBxm0wG2E=
+
+Name: javax/media/j3d/Light.class
+SHA1-Digest: zBWO4VNwukT7qUpUWNlhBDSIiZs=
+
+Name: javax/media/j3d/PositionInterpolator.class
+SHA1-Digest: TGY7PsyszcMzIsTdrBh2Gu4LG6Q=
+
+Name: javax/media/j3d/IndexedLineStripArray.class
+SHA1-Digest: UslLlyL3GHeMFQIOqG0tgh+PPbE=
+
+Name: javax/media/j3d/ExceptionStrings.properties
+SHA1-Digest: itVaEqk4WOZ/TdsIsHv6lLqCMp0=
+
+Name: javax/media/j3d/NioImageBuffer$1.class
+SHA1-Digest: 32x+rVauwj57uJQ48nIunEKyu7Y=
+
+Name: javax/media/j3d/Shape3D.class
+SHA1-Digest: /+XMY6Dv0KnoxtrkZmyHCdN7Hh8=
+
+Name: javax/media/j3d/Pipeline.class
+SHA1-Digest: kOcLSYbcy0AqCKBvqaw1i7SlrY0=
+
+Name: javax/media/j3d/ViewSpecificGroup.class
+SHA1-Digest: WfAjzOBe3xWYW7wK01KTC0fnmhw=
+
+Name: javax/media/j3d/HashKey.class
+SHA1-Digest: 6+vbDzGOj0kq5fAaBRTiF93iIPM=
+
+Name: javax/media/j3d/NodeComponentUpdate.class
+SHA1-Digest: WOdJ2j9paIS4aLRNwhTT2WC43eQ=
+
+Name: javax/media/j3d/PickInfo$3Sort.class
+SHA1-Digest: Fhf7AY2za2Y8XBmOUcSEBpmLn3E=
+
+Name: javax/media/j3d/BHInsertStructure.class
+SHA1-Digest: DANdlSiJUjvzEWLAs0ZW4OtuFLo=
+
+Name: javax/media/j3d/DepthComponentNative.class
+SHA1-Digest: 4521Z1r1NNxS6qJQk8UxdlCzs8E=
+
+Name: javax/media/j3d/Shader.class
+SHA1-Digest: hUzH6JDAvfAfC6THXZEjYqL9Jv0=
+
+Name: javax/media/j3d/TransparencyAttributesRetained.class
+SHA1-Digest: 1ZZs5AKXNRab2c+I0s6DZXdzV58=
+
+Name: javax/media/j3d/TransformStructure.class
+SHA1-Digest: s7gXsvXjAnCMvP6AFBJTIeGJtPA=
+
+Name: javax/media/j3d/ImageComponentRetained$ImageFormatType.class
+SHA1-Digest: zied/LzRAo3c1J+xblPIuTaCibM=
+
+Name: javax/media/j3d/PointSound.class
+SHA1-Digest: 3NwaoZ5NWQPUkvesFg4xrcf3wDQ=
+
+Name: javax/media/j3d/Geometry.class
+SHA1-Digest: j/jm+WKBvJSEy/h1DCsMqzcI7Tw=
+
+Name: javax/media/j3d/TransparentRenderingInfo.class
+SHA1-Digest: lmi/OIPG4CRpVqL4xA0fuKkZRoY=
+
+Name: javax/media/j3d/NnuIdManager.class
+SHA1-Digest: 4rZnarpUZLscaCbWtDNladRhfug=
+
+Name: javax/media/j3d/ImageComponentRetained.class
+SHA1-Digest: ZYiyU0Tq5fCN22R8zc5/AMm5EdQ=
+
+Name: javax/media/j3d/NativePipeline.class
+SHA1-Digest: rEw0Q7J+zoOWnffczkCOnYFzamY=
+
+Name: javax/media/j3d/DirectionalLightRetained.class
+SHA1-Digest: RsF1foT+U/k42CvtjgVxXEOV/sI=
+
+Name: javax/media/j3d/NativePipeline$3.class
+SHA1-Digest: hf0rVUF2ijcXDJcgn1B3Q7fkHMI=
+
+Name: javax/media/j3d/NodeRetained.class
+SHA1-Digest: f/a3M7bYNXBfjJwBiR4in3SlJJw=
+
+Name: javax/media/j3d/TransformGroup.class
+SHA1-Digest: jf7LfR7Dsrz2CFJ2/8JLRT7GMWI=
+
+Name: javax/media/j3d/ShaderProgramId.class
+SHA1-Digest: 5uTI0ymnonDgHVSShFbkoFH1yY8=
+
+Name: javax/media/j3d/DepthComponentRetained.class
+SHA1-Digest: dlFtmxKbBxBQUOk1HNyAztNrdd4=
+
+Name: javax/media/j3d/SoundRenderer.class
+SHA1-Digest: KBvMo7rnNHw/4aakSK3/DDdb990=
+
+Name: javax/media/j3d/DepthComponentIntRetained.class
+SHA1-Digest: Z72ne/OX2z3jjGz3e80c/LqIUXg=
+
+Name: javax/media/j3d/TextureRetained.class
+SHA1-Digest: YyzEB3hBXuaDQO9ci4k0xnNu1Q0=
+
+Name: javax/media/j3d/NativeConfigTemplate3D.class
+SHA1-Digest: Ao38Q5xshnyDeTjZiYF73LGtJ/0=
+
+Name: javax/media/j3d/NodeData.class
+SHA1-Digest: oScxDlBfejeH5S/GndpPlihUoGs=
+
+Name: javax/media/j3d/GeometryUpdater.class
+SHA1-Digest: N1JIgMCouOl9EetaDu0NS2/rlJ8=
+
+Name: javax/media/j3d/DepthComponentFloatRetained.class
+SHA1-Digest: 4sNq4qY5+Zu31vwdDrcJ7F8Eco4=
+
+Name: javax/media/j3d/TargetsInterface.class
+SHA1-Digest: sBUr++4eBKih8zj56nM4JN93qXY=
+
+Name: javax/media/j3d/Texture3D.class
+SHA1-Digest: Lu2aKmP3PRY7B0rqGk80+7mFXl4=
+
+Name: javax/media/j3d/IndexedQuadArrayRetained.class
+SHA1-Digest: cF1Vh7Wdold8PLLF3Uq0k5Yzurs=
+
+Name: javax/media/j3d/Appearance.class
+SHA1-Digest: tYH62tGEEucj/SSY4AAbHlxfi9w=
+
+Name: javax/media/j3d/OrderedChildInfo.class
+SHA1-Digest: bXxR27SbcWwdqYpg/vTU537TL5o=
+
+Name: javax/media/j3d/Bounds.class
+SHA1-Digest: 4BXOJlqzVe/aH5khSf2HY9kDyRA=
+
+Name: javax/media/j3d/PathInterpolator.class
+SHA1-Digest: DYlBAuLcQeXTqw56A1wYSqHBPHU=
+
+Name: javax/media/j3d/MasterControl$8.class
+SHA1-Digest: +pKeBIFZcnu52FoKvX6tm4E9Edc=
+
+Name: javax/media/j3d/UpdateTargets.class
+SHA1-Digest: RIYc9aRgn/y7yQGxrLvwLRy+668=
+
+Name: javax/media/j3d/PickSegment.class
+SHA1-Digest: GZ4uMe9OrVZwl1hmGhnntP/7XIE=
+
+Name: javax/media/j3d/CompressedGeometryRetained.class
+SHA1-Digest: lerT9aOcXhyI2KZ1ZyILGHhPuCA=
+
+Name: javax/media/j3d/RenderingError.class
+SHA1-Digest: AHgMxFpMRvT/KMAVhnJwiNjElS8=
+
+Name: javax/media/j3d/SoundException.class
+SHA1-Digest: 1l0QNf09LgiOPAyECHJgD+mYJPE=
+
+Name: javax/media/j3d/SoundscapeRetained.class
+SHA1-Digest: LOZu1PtFignuidqYIy6fdtdFec0=
+
+Name: javax/media/j3d/GeometryArrayRetained.class
+SHA1-Digest: KyyBW7jIsGpn5vMV6fETcx+rGe0=
+
+Name: javax/media/j3d/J3dDebug.class
+SHA1-Digest: miNxUQuuK3fh73YQOvCCR4f2+kQ=
+
+Name: javax/media/j3d/DecalGroup.class
+SHA1-Digest: 4UNSDxN1Jgp1s/x95FXRt5+z4kQ=
+
+Name: javax/media/j3d/AudioDevice3D.class
+SHA1-Digest: U4OXwAsFTLTEwlYXjM4cFMEpjyM=
+
+Name: javax/media/j3d/Interpolator.class
+SHA1-Digest: sZh3tNepKhOa6YaSiLY5dX9Cifw=
+
+Name: javax/media/j3d/NoopPipeline$NoopContext.class
+SHA1-Digest: EAjQhO2PCEiy87nJi2aA8GAkh10=
+
+Name: javax/media/j3d/Morph.class
+SHA1-Digest: QNsYq7eebHzRUhghog6f0HV6d4o=
+
+Name: javax/media/j3d/MasterControl$14.class
+SHA1-Digest: S/CtVW96zwS+m9LaRqf9Wrz5qd8=
+
+Name: javax/media/j3d/OrderedCollection.class
+SHA1-Digest: KJMuLfYAE5KS4I3knnkc3n79lFg=
+
+Name: javax/media/j3d/OrientedShape3D.class
+SHA1-Digest: sWi0U3xTd9TeCio7xnGs2JbF/nw=
+
+Name: javax/media/j3d/HiResCoord.class
+SHA1-Digest: x5MrpqwmjVKr4b7TkuxzCvn8Qdg=
+
+Name: javax/media/j3d/Targets.class
+SHA1-Digest: SQwyR9fVSm0B+c9i8v4bnMk7uc4=
+
+Name: javax/media/j3d/WakeupCriterion.class
+SHA1-Digest: 9ZzbaagdEXWzCxDQVpiVqcp3w/4=
+
+Name: javax/media/j3d/Shape3DRetained.class
+SHA1-Digest: o83o4jzd2E7mU8hOx1p4DsFOUpo=
+
+Name: javax/media/j3d/JoglPipeline$ExtendedCapabilitiesChooser.class
+SHA1-Digest: 9U37zh/jkURuTqBCEiuXVHwD+rM=
+
+Name: javax/media/j3d/RenderingErrorListener.class
+SHA1-Digest: XMh/CRTv2i1RlSiVWKgWgy6WwFE=
+
+Name: javax/media/j3d/BranchGroupRetained.class
+SHA1-Digest: +O4vCZ7RFI6rByedBrCvKWR+de0=
+
+Name: javax/media/j3d/ViewCache.class
+SHA1-Digest: PPuuIWf6h9ptXCQQnt6XXeC6Slo=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$Tuple2fWrapper.clas
+ s
+SHA1-Digest: iKrvQsbiHfoSNNnf30mBZQKo6EU=
+
+Name: javax/media/j3d/SpotLightRetained.class
+SHA1-Digest: jcj6Pk4IzmeJUY++4qxlYVmM9vc=
+
+Name: javax/media/j3d/BHLeafInterface.class
+SHA1-Digest: 8fVuOYDivo50YDZig6+I92eGTZg=
+
+Name: javax/media/j3d/InputDevice.class
+SHA1-Digest: K9kRKJgd9PsihkZLftkXVzSI3Us=
+
+Name: javax/COPYRIGHT.txt
+SHA1-Digest: OKUHIsjOSyTF+nnw6bhx4HclQkc=
+
+Name: javax/media/j3d/NodeComponentRetained.class
+SHA1-Digest: XY9RolZBAhY0oCz8UDlp8FuN9I8=
+
+Name: javax/media/j3d/GraphicsConfigInfo.class
+SHA1-Digest: f874x+66WmXPP+uhqE469Vhtxvk=
+
+Name: javax/media/j3d/GraphStructureChangeListener.class
+SHA1-Digest: 4TZqF1prvu7H8rGrPnGl6Qde1OI=
+
+Name: javax/media/j3d/J3dMessage.class
+SHA1-Digest: ocstqvvYCBurhOin8RcsVUPA7kI=
+
+Name: javax/media/j3d/BoundingLeaf.class
+SHA1-Digest: 2hCtED683Reyf/w96LhfOOU6mgg=
+
+Name: javax/media/j3d/LineStripArrayRetained.class
+SHA1-Digest: 5d/Ss8cMOoJgiNHepQR383vQ8Ko=
+
+Name: javax/media/j3d/NotificationThread.class
+SHA1-Digest: Bc4QZfmzTo57YXmX3iphwd8laH0=
+
+Name: javax/media/j3d/FreeListManager.class
+SHA1-Digest: Wf53QGP0mE7hH8qjW0+U8srJ40o=
+
+Name: javax/media/j3d/OrderedGroup.class
+SHA1-Digest: g00zMnyLk64n1Y4nwEOOvtGCdcE=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$Tuple3iWrapper.clas
+ s
+SHA1-Digest: X/aFB1P24o4cw1bpxpXhWUryiEs=
+
+Name: javax/media/j3d/LinearFogRetained.class
+SHA1-Digest: bRg0u5IRVfEQGAau3Tpj6ifzLgA=
+
+Name: javax/media/j3d/BranchGroup.class
+SHA1-Digest: SQpDZk+cJerbV/KvL84aOG0zx0k=
+
+Name: javax/media/j3d/JoglContext$CgVertexAttributeImpl.class
+SHA1-Digest: SCwJfsQLCj/BGBj12KY/iVhpYpc=
+
+Name: javax/media/j3d/TriangleArrayRetained.class
+SHA1-Digest: aagwdHquLwsBC2GMDfkuv5DUp/M=
+
+Name: javax/media/j3d/SourceCodeShader.class
+SHA1-Digest: 7PKe3jkCTFTwlgjm9wEdZOi28Ko=
+
+Name: javax/media/j3d/LineArray.class
+SHA1-Digest: mq6l/wsuh3nVdRKRU8KZRZklgxg=
+
+Name: javax/media/j3d/PickCone.class
+SHA1-Digest: B26x1eaKts365E7ov+dAdcE/7ww=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$Tuple4fArrayWrapper
+ .class
+SHA1-Digest: rQvbIfFB5Ax3CSssy/bQom+6dmU=
+
+Name: javax/media/j3d/PhysicalEnvironment.class
+SHA1-Digest: PERu5iSSADSjXfynLJEE49aofJY=
+
+Name: javax/media/j3d/Texture2DRetained.class
+SHA1-Digest: XBFld6e4vDy16VwUEuCZTQSlMmo=
+
+Name: javax/media/j3d/RenderAtom.class
+SHA1-Digest: +8ywMCZ9owW8u/UCTV+/RDX5LWs=
+
+Name: javax/media/j3d/Link.class
+SHA1-Digest: 3vc+5535k//iRZkVcgbVuJNvk/o=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$FloatWrapper.class
+SHA1-Digest: nND3qkI9ivYUx0abIJlcGuRmokk=
+
+Name: javax/media/j3d/RendererStructure.class
+SHA1-Digest: 7iRzgFJEwr6LO3Wz8axruJRly6Y=
+
+Name: javax/media/j3d/MasterControl$11.class
+SHA1-Digest: zcqHfblmQfNNTKD9+vfTh6cVi2E=
+
+Name: javax/media/j3d/Raster.class
+SHA1-Digest: fWu7iTWg0+YypgdDUvyjzG30ewE=
+
+Name: javax/media/j3d/ImageComponent.class
+SHA1-Digest: OyxI1joviy5qV86diMMSp5lWRlY=
+
+Name: javax/media/j3d/CachedFrustum.class
+SHA1-Digest: Tqqcwe/x8fG4iu3KaNVUoL+bK1E=
+
+Name: javax/media/j3d/PickConeSegment.class
+SHA1-Digest: OZxj1pnFhRjZ5nFNgheF8sAUg8E=
+
+Name: javax/media/j3d/ShaderAttribute.class
+SHA1-Digest: 3rVBWesABHQ6dW+uVEhvoTxsKtA=
+
+Name: javax/media/j3d/TransformStructure$TransformData.class
+SHA1-Digest: HWdsfCl7E+zn0DDbTqXf2fKjUQw=
+
+Name: javax/media/j3d/AmbientLight.class
+SHA1-Digest: KM/SWIQk5Vrlhxu0JVvIVMSidAw=
+
+Name: javax/LICENSE-JDL.txt
+SHA1-Digest: EPRTaIWZCJYn0xB5THlvo6jwux4=
+
+Name: javax/media/j3d/CgShaderProgram.class
+SHA1-Digest: /2C6x+W+9Gj5yBeAv9Z0Pfu7Wc0=
+
+Name: javax/media/j3d/Font3D.class
+SHA1-Digest: gGAAFkUSMQwBzKsO4QxquD4tkZw=
+
+Name: javax/media/j3d/BHNode.class
+SHA1-Digest: G5VPG9iPbiQ/VPiP4QAfIgG5RDY=
+
+Name: javax/media/j3d/JoglPipeline.class
+SHA1-Digest: wFhhpVNP1Rj51IfO/ldng4dbFnk=
+
+Name: javax/media/j3d/CompressedGeometryRenderMethod.class
+SHA1-Digest: Pxfw8/ilIp8IXFdd1KvXn/bfNpA=
+
+Name: javax/media/j3d/Screen3D.class
+SHA1-Digest: q1ZnbiP6v+7rk7mX95mJCU7Qu5c=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained.class
+SHA1-Digest: 2a2gNvFRGiuphH1ikXfqKBdxr04=
+
+Name: javax/media/j3d/PickCylinder.class
+SHA1-Digest: G9zvST0Fd9wfhM5TQ/LVDh8pln0=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$ArrayWrapper.class
+SHA1-Digest: hOyMKHpAcclpDLpzL4N3IlOjyOU=
+
+Name: javax/media/j3d/JoglContext.class
+SHA1-Digest: pVuc9BTcniPZvu+htrletnxi/5w=
+
+Name: javax/media/j3d/ModelClipRetained.class
+SHA1-Digest: rqppYaB7U7J9iawJ7wzadWRwp68=
+
+Name: javax/media/j3d/ShaderAttributeArray.class
+SHA1-Digest: Ge0KRtBeOvwEy2qTrKiOMlayJ+A=
+
+Name: javax/media/j3d/RotPosPathInterpolator.class
+SHA1-Digest: /vPuKhbqqGoDYzEMNBnhOPrVv7M=
+
+Name: javax/media/j3d/X11NativeConfigTemplate3D.class
+SHA1-Digest: 5Sas+50m4OFLx8Lisx3jsKTUOIc=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$Tuple4iWrapper.clas
+ s
+SHA1-Digest: o+bIOArjQLJBwbRXILhq8d/q2OU=
+
+Name: javax/media/j3d/BHTree.class
+SHA1-Digest: K8qLvKisUxZVERykq/mmdRjAUt4=
+
+Name: javax/media/j3d/ScreenViewCache.class
+SHA1-Digest: YBA2r1Acp+Sj5J/ZjQYxoSTT4js=
+
+Name: javax/media/j3d/J3dQueryProps$EntrySet.class
+SHA1-Digest: aQNk43vkJnnnk3fOGmCk/bpeno8=
+
+Name: javax/media/j3d/WakeupOnViewPlatformEntry.class
+SHA1-Digest: rRsoCQjDnqOG6lRCoCzceG7PI2A=
+
+Name: javax/media/j3d/ImageComponentRetained$ImageData.class
+SHA1-Digest: Wsx7b7jpEnAvlUUFWkVb6MPCD2g=
+
+Name: javax/media/j3d/NodeReferenceTable.class
+SHA1-Digest: uYO5m/c0EX9yXvwzGudpL+Av9JI=
+
+Name: javax/media/j3d/GeometryStructure.class
+SHA1-Digest: ohTECWkPaAlZr9EoSBPcIYSOhvs=
+
+Name: javax/media/j3d/GroupRetained.class
+SHA1-Digest: XfWGUAxCMoS/zlGPTrBCbQph15U=
+
+Name: javax/media/j3d/BackgroundSound.class
+SHA1-Digest: ubdEtT/ieRiwpEg61r3MwbI1QIA=
+
+Name: javax/media/j3d/GeometryDecompressor$HuffmanTableEntry.class
+SHA1-Digest: fC6kk/P0uM0Il9OuD/QrnWb85v0=
+
+Name: javax/media/j3d/ViewPlatform.class
+SHA1-Digest: 7J9zoRj/B/Y0tPLfxovB96uR0ug=
+
+Name: javax/media/j3d/J3dI18N.class
+SHA1-Digest: V5EJ8W1LpSRvpBn56Ljt90RUQyM=
+
+Name: javax/media/j3d/WakeupOnBehaviorPost.class
+SHA1-Digest: CsqwqOjXs/w+Ei0tsP73tGl7Sq0=
+
+Name: javax/media/j3d/SoundRetained.class
+SHA1-Digest: TnY7L//6w7hHgU6gFa/RpsYsQSc=
+
+Name: javax/media/j3d/LinkRetained.class
+SHA1-Digest: hz8OeYiWOPOcmvn8tOE5gGM/d64=
+
+Name: javax/media/j3d/PickCylinderRay.class
+SHA1-Digest: 11cEo541joqsa2877xRXUFp9LVg=
+
+Name: javax/media/j3d/NnuId.class
+SHA1-Digest: JXnWRWGe1HWqDc62b+3cq6A771E=
+
+Name: javax/media/j3d/LineArrayRetained.class
+SHA1-Digest: F3557r4Du8/ZnqMV5+hQ4DNqxTw=
+
+Name: javax/media/j3d/GeometryRetained.class
+SHA1-Digest: JV2DHsYBUAQU7pTBZ7TxDSXfou0=
+
+Name: javax/media/j3d/AttributeBin.class
+SHA1-Digest: wwzUVNTEj11MKYvDbmmASX1PQCs=
+
+Name: javax/media/j3d/GeometryDecompressor.class
+SHA1-Digest: OBSiKzd3UxodRr86npBjt6WvpFk=
+
+Name: javax/media/j3d/DepthComponentInt.class
+SHA1-Digest: bPLFv8XD0bAP0KraIG0/NP4xPcE=
+
+Name: javax/media/j3d/PickInfo$IntersectionInfo.class
+SHA1-Digest: jKRhwn7n2ZT7wjSdttmdwKxNtkY=
+
+Name: javax/media/j3d/ShaderAttributeSetRetained.class
+SHA1-Digest: +/1srljS3Qya5eWzOYjKcOOE8yM=
+
+Name: javax/media/j3d/NativePipeline$1.class
+SHA1-Digest: 8ONIUP3yDfbG3wUyqJfO0ZUOdGU=
+
+Name: javax/media/j3d/GeometryStripArray.class
+SHA1-Digest: qbUER16G+FaCNRFMEQ63+nHUzOA=
+
+Name: javax/media/j3d/UnorderList.class
+SHA1-Digest: JT7GN0mTiAPcs/NHb9tL4Qtj8qI=
+
+Name: javax/media/j3d/IndexedGeometryArrayRetained.class
+SHA1-Digest: 1a0hoskqA9w6L7oFj6qmbad24YI=
+
+Name: javax/media/j3d/GeneralizedVertexList.class
+SHA1-Digest: +yUXDMdA1rdqBGXsHBe6ja2WbNI=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$ValueWrapper.class
+SHA1-Digest: Otal/LFga2mlZ8oB1sHXDJk/n10=
+
+Name: javax/media/j3d/DefaultRenderMethod.class
+SHA1-Digest: shx8gMIQxw+ad4C12Tm0YVJ5Evk=
+
+Name: javax/media/j3d/TriangleFanArray.class
+SHA1-Digest: 7+/0HPapnynFgqmbLe9faFZWzYo=
+
+Name: javax/media/j3d/SwitchValueInterpolator.class
+SHA1-Digest: vfm3tB/99OBCd8bXHdDTrKrDetI=
+
+Name: javax/media/j3d/GeometryArray.class
+SHA1-Digest: XA384Jo2uXwk4hVU8FexqVt6reg=
+
+Name: javax/media/j3d/AppearanceRetained.class
+SHA1-Digest: 8PYh+wJfOmh2W3C1gziOlY5yNLc=
+
+Name: javax/media/j3d/ShaderRetained$ShaderData.class
+SHA1-Digest: UWD9ldV9s24MG1uRshyhTNSEysY=
+
+Name: javax/media/j3d/LeafRetained.class
+SHA1-Digest: d6voG6Eo2QMLs29aDETVrXjG5Xg=
+
+Name: javax/media/j3d/ImageComponentRetained$1.class
+SHA1-Digest: 38C+gFk6n0WLughoyUd0dVOeVQc=
+
+Name: javax/media/j3d/CapabilityBits.class
+SHA1-Digest: pVKAahzwYykHPIr+qses+DSfjWg=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$Matrix4fArrayWrappe
+ r.class
+SHA1-Digest: LPPq40uARwHA6yZ+PzQi+KE6knY=
+
+Name: javax/media/j3d/MasterControl.class
+SHA1-Digest: m9b7FkxTaCbi8m4jkRLs/9EJi5I=
+
+Name: javax/media/j3d/Clip.class
+SHA1-Digest: ZvVbjM9MiWx0VrCEvL9zSYkj9Ps=
+
+Name: javax/media/j3d/Billboard.class
+SHA1-Digest: n6/NkW0EhQREKwnfzmKsfSEjPsw=
+
+Name: javax/media/j3d/GeometryDecompressorRetained.class
+SHA1-Digest: YOu6GUQgcYMoU8VszcaCguS495M=
+
+Name: javax/media/j3d/PickCylinderSegment.class
+SHA1-Digest: paBUvJADBKYte89YtVPFtM1AgaE=
+
+Name: javax/media/j3d/BHInternalNode.class
+SHA1-Digest: iz1ifmIVTu05eOmRqzMX57HR+gE=
+
+Name: javax/THIRDPARTY-LICENSE-PANORAMIX.txt
+SHA1-Digest: qjPjuDci4+UN7K+mOhPNbaeeXkU=
+
+Name: javax/media/j3d/WakeupOnElapsedFrames.class
+SHA1-Digest: F5NFrJGjMfI9QR/kja3xcyxHziM=
+
+Name: javax/media/j3d/Canvas3D.class
+SHA1-Digest: nBzzcVuV6W+7ACXvPWsbTU/erag=
+
+Name: javax/media/j3d/MultipleParentException.class
+SHA1-Digest: XC+v0Q2zRcIDeFZnEXoxQ/3zNPQ=
+
+Name: javax/media/j3d/GLSLShaderProgramRetained.class
+SHA1-Digest: nKkUaxgUJ/GiLLwisn8X8t3hO7c=
+
+Name: javax/media/j3d/PickShape.class
+SHA1-Digest: l4F7FPfZF8hjUQ1Yk+LxX0yKaa0=
+
+Name: javax/media/j3d/TextureAttributesRetained.class
+SHA1-Digest: 3UQRF7I/IY6V+VU61rOd0naqUt4=
+
+Name: javax/media/j3d/Pipeline$Type.class
+SHA1-Digest: m8veBTSO0LUKNDyp3et53ix/BEU=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$Tuple3iArrayWrapper
+ .class
+SHA1-Digest: LkAu4H2ZoEXNoVcogAIzggo6LKs=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$Matrix4fWrapper.cla
+ ss
+SHA1-Digest: Br7UuB1My3KvBz021rpTMtpcZQQ=
+
+Name: javax/media/j3d/Texture3DRetained.class
+SHA1-Digest: YQU0utKYJldmyL42lMmXv86A4E0=
+
+Name: javax/media/j3d/SceneGraphPath.class
+SHA1-Digest: Sq+eI31UeXI/xwkzKbvHboAtPBY=
+
+Name: javax/media/j3d/X11NativeScreenInfo.class
+SHA1-Digest: 2glSG5ysNCUry83xdxbWYBeQkCU=
+
+Name: javax/media/j3d/GeometryStripArrayRetained.class
+SHA1-Digest: m5wj2PgwRUCrCnwiQO1eRdMGexw=
+
+Name: javax/media/j3d/ShaderProgramRetained$AttrNameInfo.class
+SHA1-Digest: wAsblxYTSNzVS6t0Xs5I1oSHf5M=
+
+Name: javax/media/j3d/GeneralizedStrip$StripArray.class
+SHA1-Digest: 1HjF5Znz80lANlNYlMdCocDtvlk=
+
+Name: javax/media/j3d/TransformInterpolator.class
+SHA1-Digest: yoy8Or/6GaN1qDkb5FOxf3Hr29A=
+
+Name: javax/media/j3d/RenderingEnvironmentStructure.class
+SHA1-Digest: ek6EP+4vrYcJUkGR/MF57tV8hMw=
+
+Name: javax/media/j3d/JoglDrawable.class
+SHA1-Digest: Y+01ynj5VaKmNMoyALrK5/JtA3w=
+
+Name: javax/media/j3d/JoglContext$VertexAttributeImpl.class
+SHA1-Digest: uR+kHksoscZPqQSOInBSTOsGip4=
+
+Name: javax/media/j3d/JoglPipeline$IndexCapabilitiesChooser.class
+SHA1-Digest: H6mpQsiuv5/Eji9uMieTf0qsdoM=
+
+Name: javax/media/j3d/RenderingAttributesRetained.class
+SHA1-Digest: 9Wa5DPNLcgBmuwlVXMW7ObZ0xBk=
+
+Name: javax/media/j3d/MasterControl$13.class
+SHA1-Digest: +oeTr/zGXki4QnzWwRUrlPm2QAU=
+
+Name: javax/media/j3d/IndexedTriangleFanArrayRetained.class
+SHA1-Digest: gQV7qVkkEKb+MiVFTAuXb5UlGUo=
+
+Name: javax/media/j3d/Leaf.class
+SHA1-Digest: 9aiY+gW77Rmw7rXs8cGR6OpUanQ=
+
+Name: javax/media/j3d/RenderingAttributesStructure.class
+SHA1-Digest: kRZqdEaP8hEXtZp6KEjnTOfSpcY=
+
+Name: javax/media/j3d/AuralAttributesRetained.class
+SHA1-Digest: HMXmAYbZL6lux4HFy9Lam7oUdPo=
+
+Name: javax/media/j3d/WakeupOnSensorExit.class
+SHA1-Digest: u23wYZfibKP9m4UbNRMwtnYxvbE=
+
+Name: javax/media/j3d/TexCoordGeneration.class
+SHA1-Digest: kr5andU3HrGn8STfv+1WFsEcxCw=
+
+Name: javax/media/j3d/GraphicsContext3D.class
+SHA1-Digest: hrDSpmoIeU5oAlP8LPSsn9VvXtQ=
+
+Name: javax/media/j3d/RenderingAttributes.class
+SHA1-Digest: B9CuhXHbrpVYvqSyNRu89Q5LoT4=
+
+Name: javax/media/j3d/LineAttributesRetained.class
+SHA1-Digest: S6DsWgFNmLKK4H9ur5B5Kp0E61Y=
+
+Name: javax/media/j3d/CanvasViewEventCatcher.class
+SHA1-Digest: lTNx9yQVbFeCqF32u8vXoxq2Wbw=
+
+Name: javax/media/j3d/IndexedUnorderSet.class
+SHA1-Digest: cJ6TvXSIMuFgG2aUR/231MFgY3Q=
+
+Name: javax/media/j3d/AssertionFailureException.class
+SHA1-Digest: H844MBuHnMZlvFx5wQG4lpZtliA=
+
+Name: javax/media/j3d/JoglGraphicsConfiguration.class
+SHA1-Digest: 8UArctLnuQb40m4prjIvHun8Lzw=
+
+Name: javax/media/j3d/NioImageBuffer.class
+SHA1-Digest: Am+iz9DN6DDEnIwcUOv6RwBtnzw=
+
+Name: javax/media/j3d/QuadArray.class
+SHA1-Digest: vKCF+jwynOZDZEWl39DyQHfHE7s=
+
+Name: javax/media/j3d/NoopDrawingSurfaceObject$NoopDrawable.class
+SHA1-Digest: V4w+r2QuwJWFozG21lI9bQjYCcg=
+
+Name: javax/media/j3d/RotPosScalePathInterpolator.class
+SHA1-Digest: Kt168n2gg0I0mQvYApMCHUUKQvU=
+
+Name: javax/media/j3d/NoopPipeline.class
+SHA1-Digest: pj+2ICd8813lfD9kiU7JGbqsEFU=
+
+Name: javax/media/j3d/SoundStructure.class
+SHA1-Digest: Dlg1xwRZYw0yeGfBHBVI3B67Wio=
+
+Name: javax/media/j3d/IndexedTriangleFanArray.class
+SHA1-Digest: fe6LqJLDK5iaaEWzrhm6FUGiILs=
+
+Name: javax/media/j3d/ShaderProgram$DefaultErrorListener.class
+SHA1-Digest: rl67lHErTf3TaalguYlQANSkJMM=
+
+Name: javax/media/j3d/Pipeline$1.class
+SHA1-Digest: Q0kXhYxOmF9Ia8owrLLBWICjGQk=
+
+Name: javax/LICENSE-JRL.txt
+SHA1-Digest: j6+PJl1wfewdvjxuXH9M4FblqWQ=
+
+Name: javax/media/j3d/J3dQueryProps.class
+SHA1-Digest: ZfmHG62SPRKvkSLkhK0gJo4JBiU=
+
+Name: javax/media/j3d/LinearFog.class
+SHA1-Digest: x1/Oigh3nHAlcVtEJ20Bo1xFCcE=
+
+Name: javax/media/j3d/TransformGroupRetained.class
+SHA1-Digest: BXCohDW3TwtOZ+KwVad8D8UygwA=
+
+Name: javax/media/j3d/GeneralizedStrip.class
+SHA1-Digest: MaaOnkvIaG5xM+GOUOaTKPb6pqU=
+
+Name: javax/media/j3d/PointLightRetained.class
+SHA1-Digest: 3j40Lcec3Gu2C0NsV4XThQPf1AI=
+
+Name: javax/media/j3d/MasterControl$3.class
+SHA1-Digest: mKLdju8PdP+u8QKGD8isp66WA1E=
+
+Name: javax/media/j3d/RenderMolecule.class
+SHA1-Digest: +swNSlDUmPgR+7tFQ/wswmdsgC8=
+
+Name: javax/media/j3d/ShaderAttributeArrayRetained$Tuple2fArrayWrapper
+ .class
+SHA1-Digest: DkR6hLn3/8E1rp0Qg+9AkSjdbIo=
+
+Name: javax/media/j3d/CompressedGeometry.class
+SHA1-Digest: NKJg3ifewGz3XeWRO406/KfeOrg=
+
+Name: javax/media/j3d/IndexedLineArray.class
+SHA1-Digest: 40NZCsl06BJJGApJWUg509C1BH4=
+
+Name: javax/media/j3d/PointArrayRetained.class
+SHA1-Digest: tnVKteW8z6ZBx7AxUhFSnLBvt9k=
+
+Name: javax/media/j3d/Alpha.class
+SHA1-Digest: G0uz0A/HPEI+OW17n2fwVNK9jw4=
+
+Name: javax/media/j3d/SceneGraphObject.class
+SHA1-Digest: jSvB1BgpJ1Y40S1T7Ca+XyXSA98=
+
+Name: javax/media/j3d/RotationPathInterpolator.class
+SHA1-Digest: Ojbz4k394Z55mXYK0Y3/RCbeEyU=
+
+Name: javax/media/j3d/WakeupIndexedList.class
+SHA1-Digest: HlMAmxufQxG8beEruwjP9X5W7cw=
+
+Name: javax/media/j3d/CompileState.class
+SHA1-Digest: vxZ2APBFNb5ybApGedj0SaYkjWg=
+
+Name: javax/media/j3d/ShaderAttributeObjectRetained$AttrWrapper.class
+SHA1-Digest: NJ1g2NvxJf4QSPDc0PQc9PwAlM4=
+
+Name: javax/media/j3d/ShaderRetained.class
+SHA1-Digest: IEnblCVM6EdGVQ2FaWwhzNENQDs=
+
+Name: javax/media/j3d/ShaderAppearanceRetained.class
+SHA1-Digest: knMX5nm98rzn4xwVO5T1ek+yyyo=
+
+Name: javax/media/j3d/ShaderAttributeValueRetained$Matrix3fWrapper.cla
+ ss
+SHA1-Digest: bJhI8gbTMtp+vgLMqQPz5820ZFY=
+
+Name: javax/media/j3d/TextureCubeMapRetained.class
+SHA1-Digest: 2lc09weNa7oHTpVZDt9GhgAzcsI=
+
+Name: javax/media/j3d/J3dQueryProps$MapIterator.class
+SHA1-Digest: gYbNFtXJ339oPennJ9LLDqxA+UI=
+
+Name: javax/media/j3d/TextureCubeMap.class
+SHA1-Digest: sqegIsJX9ZeVKtkQxwUNVWEWei0=
+
+Name: javax/media/j3d/VirtualUniverse.class
+SHA1-Digest: u9yNW6H5/hVNqlMLfQXcklR6QAw=
+
+Name: javax/media/j3d/GLSLShaderProgram.class
+SHA1-Digest: sUmi+j5kqpBBVXywmWthZPW3ny4=
+
+Name: javax/media/j3d/SensorRead.class
+SHA1-Digest: IERmSGmpK5xIU/VO9T17J5nBUhI=
+
+Name: javax/media/j3d/BehaviorScheduler.class
+SHA1-Digest: HzSJ4thmaNzYsYRTZ0rqwUdbWPA=
+
+Name: javax/media/j3d/Sensor.class
+SHA1-Digest: wPIm9yarsqas+uUpjs6AKtz4GJc=
+
+Name: javax/media/j3d/ObjectUpdate.class
+SHA1-Digest: R5fc9lpjLCIEqN0pRVePEDPPODM=
+
+Name: javax/media/j3d/SharedGroup.class
+SHA1-Digest: 4xUqb94N1JqZ71lj5CA6V9ZA+v8=
+
+Name: javax/media/j3d/ShaderAttributeObject.class
+SHA1-Digest: 68rJm6VTubN1TN1naKyqmF04mEU=
+
+Name: javax/media/j3d/ImageComponent2DRetained.class
+SHA1-Digest: bIoEBlNCQI9/6em6UXnnYFCHkSA=
+
+Name: javax/media/j3d/QuadArrayRetained.class
+SHA1-Digest: /98vOOFm/28MES2Mbt6qxQsrm30=
+
+Name: javax/media/j3d/PickInfo$2Sort.class
+SHA1-Digest: +9x9pXx+QFuosP0+xJFGNDVWd9I=
+
+Name: javax/media/j3d/WakeupAndOfOrs.class
+SHA1-Digest: gBO18amkw8OYFU10gSIJ+tA3/jI=
+
+Name: javax/media/j3d/MemoryFreeList.class
+SHA1-Digest: 0Sio9QYwkmuTPh2Q01aZHFGZ1t8=
+
+Name: javax/media/j3d/RenderBin.class
+SHA1-Digest: PBuEjOYPdj/QlXSPMjr6REZtopU=
+
+Name: javax/media/j3d/IndexedGeometryStripArrayRetained.class
+SHA1-Digest: FOiy1T0HyxRbtVnYlYkVP5ODxUQ=
+
+Name: javax/media/j3d/PolygonAttributesRetained.class
+SHA1-Digest: oLV/zIEPeRIxwYAMstBwOUX9x3A=
+
+Name: javax/media/j3d/BackgroundSoundRetained.class
+SHA1-Digest: +R6lhwcQkD7lmdNBF0YsZKtj16U=
+
+Name: javax/media/j3d/J3dClock.class
+SHA1-Digest: uHOhg955Xk8upM+tP5awTTWMEqE=
+
+Name: javax/media/j3d/View.class
+SHA1-Digest: rw43Otse/6kE9DMkByAWGpB8w7k=
+
+Name: javax/media/j3d/DecalGroupRetained.class
+SHA1-Digest: o/mPN3aI5oHnax+kM+2QkvXuj/0=
+
+Name: javax/media/j3d/IndexedLineArrayRetained.class
+SHA1-Digest: iQBsyf2eHcVNr2nbQj0HcG0NLck=
+
+Name: javax/media/j3d/PointSoundRetained.class
+SHA1-Digest: N8BKbhgx+C9KUaq1m4FT/nnq1mk=
+
+Name: javax/media/j3d/ShaderAttributeValue.class
+SHA1-Digest: OND7MMNlwBZcm+lLE5Ng0bK5+1Y=
+
+Name: javax/media/j3d/Texture.class
+SHA1-Digest: htCs7I8l/Iac/ht6R/5vRfpCdZs=
+
+Name: javax/media/j3d/NioImageBuffer$BufferType.class
+SHA1-Digest: 75kkcZpmUvbBkdvo7pEqt0ScYmg=
+
+Name: javax/media/j3d/MasterControl$9.class
+SHA1-Digest: v0welsZfQjKoxU+c2itVvjsp99I=
+
+Name: javax/media/j3d/SceneGraphObjectRetained.class
+SHA1-Digest: A7v3cVHLEf3yLwz8Qvf4PZtGw/I=
+
+Name: javax/media/j3d/BoundingBox.class
+SHA1-Digest: HusivvXW9aZ4dm60IutYPuZP9Rg=
+
+Name: javax/media/j3d/DepthComponent.class
+SHA1-Digest: XDEUrVzHzEzwZlpGBLupDgvi8YQ=
+
+Name: javax/media/j3d/RasterRetained.class
+SHA1-Digest: a8BpnaPPFVVJswsMI4mZIfjUZR8=
+
+Name: javax/media/j3d/IllegalRenderingStateException.class
+SHA1-Digest: vSVA2xkiEfiOBMIaTr7497Zp2KU=
+
+Name: javax/media/j3d/MasterControl$12.class
+SHA1-Digest: /HqOJszUkGRXMpHYfPVqhAQw4Ms=
+
+Name: javax/media/j3d/ViewPlatformRetained.class
+SHA1-Digest: qe2Kgk4DRCjASOVZeO1TUZM82xY=
+
+Name: javax/media/j3d/GeometryDecompressor$MeshBufferEntry.class
+SHA1-Digest: 4Lk1oO8Hr4tt9oYS+so307PAC5Y=
+
+Name: javax/media/j3d/MorphRetained.class
+SHA1-Digest: Par8+XTdDc4+XLQjETO01a7k0Pg=
+
+Name: javax/media/j3d/TextureAttributes.class
+SHA1-Digest: cdJeSWd7j9x5nQJryjvtUw1t/Uc=
+
+Name: javax/media/j3d/PointAttributesRetained.class
+SHA1-Digest: fKK8CgT3TAunB7Vi994h/QF/h/M=
+
+Name: javax/media/j3d/MasterControl$16.class
+SHA1-Digest: SSi0gaXbtFbjvcfXhraniccgAZA=
+
+Name: javax/media/j3d/IndexedGeometryArray.class
+SHA1-Digest: uc2u3tnzaYSdTxE0Q6cNdUZX1jY=
+
+Name: javax/media/j3d/TransparencyAttributes.class
+SHA1-Digest: 5U2bffz9BetiirzcEcGi27cM5IE=
+
+Name: javax/media/j3d/ModelClip.class
+SHA1-Digest: Bz6CgcY/Y/qGqafd7okHgVw0B50=
+
+Name: javax/media/j3d/CompressedGeometryHeader.class
+SHA1-Digest: 8QLJP0rRPgzE4qBC643zoTgL7RU=
+
+Name: javax/media/j3d/GraphicsConfigTemplate3D.class
+SHA1-Digest: lIkrmVymRzkVBwx9mvNoRkt1fqg=
+
+Name: javax/media/j3d/Texture2D.class
+SHA1-Digest: EfbpwJF711j9rMu8luA0Ckfwpag=
+
+Name: javax/media/j3d/VertexArrayRenderMethod.class
+SHA1-Digest: EXlelbpIf5TB4uahaBpvYJXSPGw=
+
+Name: javax/media/j3d/DisplayListRenderMethod.class
+SHA1-Digest: 6BMNBMleAiVG2tJBIet+xZ1+oFw=
+
+Name: javax/media/j3d/ExponentialFog.class
+SHA1-Digest: /ZPTZnsWZE0Tpgw2CmjSaT8OH2A=
+
+Name: javax/media/j3d/Background.class
+SHA1-Digest: G26354Wcay6qKqoedolxikKvEwU=
+
+Name: javax/media/j3d/ImageComponent2D.class
+SHA1-Digest: QWjo+8rcKt4jfGo3fkbG9fq2cPk=
+
+Name: javax/media/j3d/LightRetained.class
+SHA1-Digest: fFRlsHtxSRt2GtJGKKCpNezyZFY=
+
+Name: javax/media/j3d/JoglPipeline$QueryCanvas.class
+SHA1-Digest: H+tBEhV0t3MRET7jeLmyKxy/spY=
+
+Name: javax/media/j3d/OrderedPathElement.class
+SHA1-Digest: MFKekTtHoxBmdiT/0r/iwY1ob9I=
+
+Name: javax/media/j3d/DirectionalLight.class
+SHA1-Digest: FJO+0RoDSHAvL1yPSQYZsm9xN2Q=
+
+Name: javax/media/j3d/ClipRetained.class
+SHA1-Digest: FRtJmkefUnPJJeoTnfL0sQniy1g=
+
+Name: javax/media/j3d/PolygonAttributes.class
+SHA1-Digest: 0AZ58jo8ncHbSAAkRDGePcqDvhQ=
+
+Name: javax/media/j3d/Soundscape.class
+SHA1-Digest: YTRAZR4UNE2PtR1N72xcg2dQ5yk=
+
+Name: javax/media/j3d/PickBounds.class
+SHA1-Digest: AL6vlky9uoROsPSbC/TrJEw7cyU=
+
+Name: javax/media/j3d/LineStripArray.class
+SHA1-Digest: Km+NqRbVCppr31VxB1pJvzeCt/w=
+
+Name: javax/media/j3d/AudioDevice.class
+SHA1-Digest: BSYlh51f2PTqp9r2rPdDgA3Yvys=
+
+Name: javax/media/j3d/IllegalSceneGraphException.class
+SHA1-Digest: WmqyBVR0qECWjCgogAHc/SoWB3A=
+
+Name: javax/media/j3d/Locale.class
+SHA1-Digest: YtlkqeKSwe8J42ljph+c+onzwYQ=
+
+Name: javax/media/j3d/Win32NativeConfigTemplate3D.class
+SHA1-Digest: GCMoDU4J3/nRnVe3ElENJIRb8VI=
+
+Name: javax/media/j3d/ConeSound.class
+SHA1-Digest: /5wYjsDA+0zi4Q+U3pM3N2CaRAM=
+
+Name: javax/media/j3d/JoglPipeline$2.class
+SHA1-Digest: qyPoia59C71vL8peqlUEMGa/1gk=
+
+Name: javax/media/j3d/TransparencyInterpolator.class
+SHA1-Digest: Ig5P4oF43h1LB6tURCQzsKouq50=
+
+Name: javax/media/j3d/DepthComponentFloat.class
+SHA1-Digest: FDHVW1aIrFKSu0vje28day6pVOc=
+
+Name: javax/media/j3d/ShaderError.class
+SHA1-Digest: LimzrPSioF1OWesUL234IjwxqJg=
+
+Name: javax/media/j3d/TriangleStripArrayRetained.class
+SHA1-Digest: 33LuMThV7W00DrJkYtaJyEI3UEg=
+
+Name: javax/media/j3d/ShaderProgramRetained.class
+SHA1-Digest: 6L7MTCW9cT1fOhcgE2XwwQAwe7s=
+
+Name: javax/media/j3d/ColorInterpolator.class
+SHA1-Digest: Tp1gEUXOxqS9F0/yLjhtUInAPyc=
+
+Name: javax/media/j3d/RenderAtomListInfo.class
+SHA1-Digest: EaIZLIV2AIzHubPThl7xm5iWv4c=
+
+Name: javax/media/j3d/RotationInterpolator.class
+SHA1-Digest: AikEyf4i+OgQRIAYAETgSL8DFsg=
+
+Name: javax/media/j3d/WakeupOnActivation.class
+SHA1-Digest: j2JKezePpQxacJOfT8yFKqxyIcs=
+
+Name: javax/media/j3d/GeometryLock.class
+SHA1-Digest: s5phbdUMSyGexnxMp1T4TMo+Das=
+
+Name: javax/media/j3d/IndexedPointArrayRetained.class
+SHA1-Digest: iuBqPx2RXu//GBSaoE0XTjOKvUw=
+
+Name: javax/media/j3d/PickInfo$1Sort.class
+SHA1-Digest: L/UjWhg9Gw0PC0jMZbvK3ZuGY2g=
+
+Name: javax/media/j3d/NodeComponent.class
+SHA1-Digest: I5pMC8Ax9orqpPtX+sdCi7wir/w=
+
+Name: javax/media/j3d/JoglShaderObject.class
+SHA1-Digest: jTWFsXIxIBpHjiRMeAwvxGRSFsw=
+
+Name: javax/media/j3d/NoopDrawingSurfaceObject.class
+SHA1-Digest: bH2VeUU8/9tVC/q8nTc/qEoxIuA=
+
+Name: javax/media/j3d/BadTransformException.class
+SHA1-Digest: Gkow3no1FscS2kGyWgIjcoze9mc=
+
+Name: javax/media/j3d/MasterControl$4.class
+SHA1-Digest: saCTcMAGMOMsA/cCBR/PtJlOCSw=
+
+Name: javax/media/j3d/Font3D$IslandsNode.class
+SHA1-Digest: yWbSovLuoijEQpey9b/SqcQ86TQ=
+
+Name: javax/media/j3d/IndexedLineStripArrayRetained.class
+SHA1-Digest: KRzxXgZ2SY28GdEcRLDZsQJ+9Z0=
+
+Name: javax/media/j3d/Win32NativeScreenInfo.class
+SHA1-Digest: 5cTAZ81GmCORFGPDdTQmipq3Rdw=
+
+Name: javax/media/j3d/AlternateAppearanceRetained.class
+SHA1-Digest: J9xcfoshIpzLzxz3tja/LJfRhKQ=
+
+Name: javax/media/j3d/TransformGroupData.class
+SHA1-Digest: FO2T9EfLPPKaj83UOZ5y6sI6Jps=
+
+Name: javax/media/j3d/IllegalSharingException.class
+SHA1-Digest: iticOHpk37FGHGUJEsQJbTvZrBg=
+
+Name: javax/media/j3d/CgShaderProgramRetained.class
+SHA1-Digest: p1WcVjloysvbarDUSbDaUMY1Df8=
+
+Name: javax/media/j3d/MasterControl$TimeType.class
+SHA1-Digest: bYDG8dzhcdokjgx3XQdV2bkQxpg=
+
+Name: javax/media/j3d/BoundingLeafRetained.class
+SHA1-Digest: nzhczWSjjQ9LbUHw715actUVckw=
+
+Name: javax/media/j3d/IndexedObject.class
+SHA1-Digest: DF2o2eO0W8u/ajS+57mIbpFdg1Q=
+
+Name: javax/media/j3d/ShaderId.class
+SHA1-Digest: x3lgf6LZo5csrS4N571bclRH0iY=
+
+Name: javax/media/j3d/ColoringAttributesRetained.class
+SHA1-Digest: IxNlcBZkZB+cXmVKvhgVuAvld/Q=
+
+Name: javax/media/j3d/ShaderBin.class
+SHA1-Digest: DfrC4ume6lgwtuzbbInEF5rXHrQ=
+
+Name: javax/media/j3d/ImageComponent$ImageClass.class
+SHA1-Digest: PBChPk7/zzIGB7+x/NTXUd66UYs=
+
+Name: javax/media/j3d/MRSWLock.class
+SHA1-Digest: mswDaHfkN22P+lOj30Giq1u6hew=
+
