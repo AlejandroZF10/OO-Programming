@@ -1,0 +1,4 @@
+3 ventas de CMD
+1-. start rmiregistry
+2-. java ImagenesImpl
+3-. java -Djava.security.policy=no.policy ImagenesClient
